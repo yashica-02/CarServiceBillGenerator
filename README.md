@@ -11,4 +11,5 @@ After Clicking on Generate Bill the Following window will be shown
 After clicking RESET:
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/100527997/211759802-28a959d6-be4a-484b-85f9-e77cb10cd2a6.png">
 
+Another example of selecting different options
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/100527997/211759892-c5e7e918-92f3-426e-bb60-b260c905dbba.png">
